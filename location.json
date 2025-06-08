@@ -1,0 +1,191 @@
+[
+  {
+      "name": "Trường THPT Đồng Yên",
+      "lat": 22.2103049,
+      "lng": 104.7874852,
+      "address": "Thôn Đồng Kem, Xã Đồng Yên, Đồng Yên, Bắc Quang, Hà Giang, Việt Nam",
+      "rating": 4.4,
+      "type": "THPT",
+      "phone": "0912795208"
+    },
+    {
+      "name": "Trường THPT Hùng An",
+      "lat": 22.3401633,
+      "lng": 104.8749631,
+      "address": "8VQG+X2R, Hùng An, Bắc Quang, Hà Giang, Việt Nam",
+      "rating": 4.6,
+      "type": "THPT",
+      "phone": "0914626950"
+    },
+    {
+      "name": "Trường THPT Kim Ngọc",
+      "lat": 22.43239258754683,
+      "lng": 104.93491663800512,
+      "address": "QL2C, Đồng Tâm, Vĩnh Yên, Vĩnh Phúc, Việt Nam",
+      "rating": 4.1,
+      "type": "THPT",
+      "phone": "0834316692"
+    },
+    {
+      "name": "Trường THCS&THPT Liên Hiệp",
+      "lat": 22.39739993,
+      "lng": 105.035306,
+      "address": "92VM+2JX, Liên Hiệp, Bắc Quang, Hà Giang, Việt Nam",
+      "rating": 4.1,
+      "type": "THCS&THPT",
+      "phone": "0949103686"
+    },
+    {
+      "name": "Trường PTDT NT Bắc Quang",
+      "lat": 22.39725611,
+      "lng": 104.8230861,
+      "address": "107 QL2, TT. Việt Quang, Bắc Quang, Hà Giang, Việt Nam",
+      "rating": 4.1,
+      "type": "PTDT NT",
+      "phone": "0915836025"
+    },
+    {
+      "name": "Trường THPT Việt Vinh",
+      "lat": 22.41120141,
+      "lng": 104.8066162,
+      "address": "CR64+CJ5, QL2, TT. Việt Quang, Bắc Quang, Hà Giang, Việt Nam",
+      "rating": 3.9,
+      "type": "THPT",
+      "phone": "0948666319"
+    },
+    {
+      "name": "Trường THPT Tân Quang",
+      "lat": 22.47984532,
+      "lng": 104.8661401,
+      "address": "Tân Quang, Bắc Quang, Hà Giang, Việt Nam",
+      "rating": 4.3,
+      "type": "THPT",
+      "phone": "0919924916"
+    },
+    {
+      "name": "Trường THPT Quang Bình",
+      "lat": 22.40433648,
+      "lng": 104.5876068,
+      "address": "CH3Q+M2G, TT, Quang Bình, Hà Giang, Việt Nam",
+      "rating": 4.1,
+      "type": "THPT",
+      "phone": "0915836025"
+    },
+    {
+      "name": "Trường THPT Xuân Giang",
+      "lat": 22.32195122496482,
+      "lng": 104.6671175171055,
+      "address": "Xuân Giang, Quang Bình, Hà Giang, Việt Nam",
+      "rating": 4.6,
+      "type": "THPT",
+      "phone": "0944049646"
+    },
+    {
+      "name": "Trường THCS&THPT Nà Chì",
+      "lat": 22.51427026,
+      "lng": 104.5090109,
+      "address": "Nà Chi, Xín Mần, Hà Giang, Việt Nam",
+      "rating": 4.8,
+      "type": "THCS&THPT",
+      "phone": "0838521009"
+    },
+    {
+      "name": "Trường THPT Xín Mần",
+      "lat": 22.68301426,
+      "lng": 104.4656038,
+      "address": "MFJ7+5XV, Cốc Pài, Xín Mần, Hà Giang, Việt Nam",
+      "rating": 3.5,
+      "type": "THPT",
+      "phone": "0942167202"
+    },
+    {
+      "name": "Trường THCS&THPT Xín Mần",
+      "lat": 22.74092975,
+      "lng": 104.4959906,
+      "address": "PFQW+5J6, Xín Mần, Hà Giang, Việt Nam",
+      "rating": 4.6,
+      "type": "THCS&THPT",
+      "phone": "0916641202"
+    },
+    {
+      "name": "Trường THPT Hoàng Su Phì",
+      "lat": 22.73647247,
+      "lng": 104.6748544,
+      "address": "PMPG+G24, Tụ Nhân, Hoàng Su Phì, Hà Giang, Việt Nam",
+      "rating": 3.7,
+      "type": "THPT",
+      "phone": "0918259074"
+    },
+    {
+      "name": "Trường THPT Thông Nguyên",
+      "lat": 22.56219953,
+      "lng": 104.7407492,
+      "address": "HP6R+R75, Thông Nguyên, Hoàng Su Phì, Hà Giang, Việt Nam",
+      "rating": 4.8,
+      "type": "THPT",
+      "phone": "0941034789"
+    },
+    {
+      "name": "Trường THPT Việt Lâm",
+      "lat": 22.62831236,
+      "lng": 104.9616015,
+      "address": "JXH6+6MC, QL2, TT. NT Việt Lâm, Vị Xuyên, Hà Giang, Việt Nam",
+      "rating": 4.2,
+      "type": "THPT",
+      "phone": "0363896888"
+    },
+    {
+      "name": "Trường THPT Vị Xuyên",
+      "lat": 22.66672408,
+      "lng": 104.9804603,
+      "address": "MX8J+J58, Đường Yết Kiêu, TT Vị Xuyên, Thị xã Hà Giang, Hà Giang, Việt Nam",
+      "rating": 4.0,
+      "type": "THPT",
+      "phone": "0839129168"
+    },
+    {
+      "name": "Trường THCS&THPT Linh Hồ",
+      "lat": 22.70611962,
+      "lng": 105.0528919,
+      "address": "P343+956, Linh Hồ, Vị Xuyên, Hà Giang, Việt Nam",
+      "rating": 3.7,
+      "type": "THCS&THPT",
+      "phone": "0912009648"
+    },
+    {
+      "name": "Trường THCS&THPT Phương Tiến",
+      "lat": 22.86506748,
+      "lng": 104.9207273,
+      "address": "Km 9, Phương Tiến, Vị Xuyên, Hà Giang, Việt Nam",
+      "rating": 4.2,
+      "type": "THCS&THPT",
+      "phone": "0919019619"
+    },
+    {
+      "name": "Trường PTDT NT Yên Minh",
+      "lat": 23.1182394,
+      "lng": 105.1546046,
+      "address": "45C7+5C2, TT. Yên Minh, Yên Minh, Hà Giang, Việt Nam",
+      "rating": 4.4,
+      "type": "PTDT NT",
+      "phone": "0912802046"
+    },
+    {
+      "name": "Trung GDTX-HN tỉnh",
+      "lat": 22.82592525,
+      "lng": 104.9868244,
+      "address": "RXCP+WHH, P. Minh Khai, Hà Giang, Việt Nam",
+      "rating": 3.7,
+      "type": "GDTX",
+      "phone": "0914057672"
+    },
+    {
+      "name": "Trường CĐSP Hà Giang",
+      "lat": 22.73647247,
+      "lng": 104.6748544,
+      "address": "RX7J+2CH, P. Nguyễn Trãi, Hà Giang, Việt Nam",
+      "rating": 4.3,
+      "type": "CĐSP",
+      "phone": "0915273989"
+    }
+]

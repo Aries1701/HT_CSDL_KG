@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tra cứu trường học Hà Giang</title>
+  <!-- Thư viện Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
+  <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <div class="logo">School</div>
+    <div id="filters">
+      <div id="ward-filter" style="display: flex; align-items: center;">
+        <label for="ward-select">Phường</label>
+        <select id="ward-select">
+          <option value="">Tất cả</option>
+          <option value="Bắc Quang">Bắc Quang</option>
+          <option value="Quang Bình">Quang Bình</option>
+          <option value="Xín Mần">Xín Mần</option>
+          <option value="Hoàng Su Phì">Hoàng Su Phì</option>
+          <option value="Vị Xuyên">Vị Xuyên</option>
+          <option value="Tp Hà Giang">Tp Hà Giang</option>
+          <option value="Quản Bạ">Quản Bạ</option>
+          <option value="Yên Minh">Yên Minh</option>
+          <option value="Đồng Văn">Đồng Văn</option>
+          <option value="Bắc Mê">Bắc Mê</option>
+          <option value="Minh Khai">Minh Khai</option>
+          <option value="Nguyễn Trãi">Nguyễn Trãi</option>
+        </select>
+      </div>
+
+
+        <label for="ward-select">Loại trường</label>
+        <select id="school-select">
+          <option value="">Tất cả</option>
+          <option value="THPT">THPT</option>
+          <option value="THCS&THPT">THCS&THPT</option>
+          <option value="PTDT NT">PTDT NT</option>
+          <option value="CĐSP">CĐSP</option>
+          <option value="GDTX">GDTX</option>
+        </select>
+
+
+    </div>
+    <button id="filter-btn"><strong>Lọc</strong></button>
+
+  </header>
+  <main>
+    <!-- Khu vực bản đồ -->
+    <section id="map"></section>
+    <!-- Danh sách địa điểm -->
+    <aside id="list">
+      <h3>Danh sách trường:</h3>
+      <ul id="location-list"></ul>
+
+    </aside>
+  </main>
+
+  <!-- JS -->
+  <script src="script.js"></script>
+</body>
+
+</html>
