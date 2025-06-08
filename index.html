@@ -39,18 +39,20 @@
       </div>
 
 
-        <label for="ward-select">Loại trường</label>
-        <select id="school-select">
-          <option value="">Tất cả</option>
-          <option value="THPT">THPT</option>
-          <option value="THCS&THPT">THCS&THPT</option>
-          <option value="PTDT NT">PTDT NT</option>
-          <option value="CĐSP">CĐSP</option>
-          <option value="GDTX">GDTX</option>
-        </select>
+      <label for="ward-select">Loại trường</label>
+      <select id="school-select">
+        <option value="">Tất cả</option>
+        <option value="THPT">THPT</option>
+        <option value="THCS&THPT">THCS&THPT</option>
+        <option value="PTDT NT">PTDT NT</option>
+        <option value="CĐSP">CĐSP</option>
+        <option value="GDTX">GDTX</option>
+      </select>
 
 
     </div>
+    <button class="toggle-dark">🌓</button>
+
     <button id="filter-btn"><strong>Lọc</strong></button>
 
   </header>
@@ -67,6 +69,12 @@
 
   <!-- JS -->
   <script src="script.js"></script>
+  <script>
+    const btn = document.querySelector('.toggle-dark');
+    btn.onclick = () => {
+      document.body.classList.toggle('dark');
+    };
+  </script>
 </body>
 
 </html>
